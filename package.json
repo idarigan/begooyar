@@ -1,0 +1,19 @@
+{
+  "name": "begooyar",
+  "version": "1.0.0",
+  "description": "Anonymous message sharing platform",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "anonymous",
+    "messaging",
+    "persian"
+  ],
+  "license": "MIT"
+}

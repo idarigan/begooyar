@@ -1,0 +1,927 @@
+{
+  "messages": [
+    {
+      "id": "1775401000001abc00001",
+      "text": "hey what's going on?",
+      "author": "Anonymous",
+      "timestamp": "2026-04-05T14:55:00.001Z",
+      "replies": [
+        {
+          "id": "1775401005001abc00002",
+          "text": "not much, chilling",
+          "author": "dude",
+          "timestamp": "2026-04-05T14:56:00.501Z"
+        },
+        {
+          "id": "1775401009001abc00003",
+          "text": "same here",
+          "author": "Anonymous",
+          "timestamp": "2026-04-05T14:57:00.901Z"
+        }
+      ],
+      "views": 6
+    },
+    {
+      "id": "1775402000001def00001",
+      "text": "Does anyone remember the old days?",
+      "author": "Anonymous",
+      "timestamp": "2026-04-05T15:10:00.001Z",
+      "replies": [
+        {
+          "id": "1775402004001def00002",
+          "text": "what do you mean?",
+          "author": "dude",
+          "timestamp": "2026-04-05T15:11:00.401Z"
+        },
+        {
+          "id": "1775402008001def00003",
+          "text": "yeah kinda",
+          "author": "Anonymous",
+          "timestamp": "2026-04-05T15:12:00.801Z"
+        }
+      ],
+      "views": 10
+    },
+    {
+      "id": "1775403000001ghi00001",
+      "text": "This chat feels weird today",
+      "author": "dude",
+      "timestamp": "2026-04-05T15:20:00.001Z",
+      "replies": [
+        {
+          "id": "1775403005001ghi00002",
+          "text": "maybe it's the weather",
+          "author": "Anonymous",
+          "timestamp": "2026-04-05T15:21:00.501Z"
+        }
+      ],
+      "views": 8
+    },
+    {
+      "id": "1775403500001jkl00001",
+      "text": "hello?",
+      "author": "Anonymous",
+      "timestamp": "2026-04-05T15:25:00.001Z",
+      "replies": [
+        {
+          "id": "1775403504001jkl00002",
+          "text": "hi",
+          "author": "dude",
+          "timestamp": "2026-04-05T15:26:00.401Z"
+        },
+        {
+          "id": "1775403507001jkl00003",
+          "text": "yo",
+          "author": "Anonymous",
+          "timestamp": "2026-04-05T15:26:45.701Z"
+        }
+      ],
+      "views": 6
+    },
+    {
+      "id": "1775404000001mno00001",
+      "text": "Anyone hungry?",
+      "author": "dude",
+      "timestamp": "2026-04-05T15:30:00.001Z",
+      "replies": [
+        {
+          "id": "1775404004001mno00002",
+          "text": "always",
+          "author": "Anonymous",
+          "timestamp": "2026-04-05T15:31:00.401Z"
+        }
+      ],
+      "views": 7
+    },
+    {
+      "id": "1775404500001pqr00001",
+      "text": "I'm thinking about pizza",
+      "author": "Anonymous",
+      "timestamp": "2026-04-05T15:35:00.001Z",
+      "replies": [
+        {
+          "id": "1775404503001pqr00002",
+          "text": "same bro",
+          "author": "dude",
+          "timestamp": "2026-04-05T15:35:30.301Z"
+        }
+      ],
+      "views": 8
+    },
+    {
+      "id": "17761765473091imrbpp9b",
+      "text": "اول میکوشمت بعد جنازتو میخورم",
+      "author": "جنازه خوار",
+      "timestamp": "2026-04-14T14:22:27.309Z",
+      "replies": [],
+      "views": 11
+    },
+    {
+      "id": "1776177769210j6cowhhvf",
+      "text": "بگو ای یاز بگو",
+      "author": "کسی",
+      "timestamp": "2026-04-14T14:42:49.210Z",
+      "replies": [],
+      "views": 9
+    },
+    {
+      "id": "1776177819719cdje0z8wl",
+      "text": "پروکسی قوی",
+      "author": "پیامبر اکرم",
+      "timestamp": "2026-04-14T14:43:39.719Z",
+      "replies": [],
+      "views": 14
+    },
+    {
+      "id": "1776188655356mj8ci5z1b",
+      "text": "🔴 بیل همر از فاکس نیوز: من همین الان با یکی از مقامات ارشد دولت ترامپ تماس گرفتم: امروز و فردا اتفاقات زیادی در حال رخ دادن است. ما همه اجزای یک معامله را داریم، اما هنوز همه چیز به پایان نرسیده است.محاصره ایران را واقعاً ترسناک کرده است که اقتصاد آنها را خفه می کند.",
+      "author": "کسی",
+      "timestamp": "2026-04-14T17:44:15.356Z",
+      "replies": [],
+      "views": 15
+    },
+    {
+      "id": "17761886705836hw369kwq",
+      "text": "💢 وال استریت ژورنال به نقل از مقامات آمریکایی: هیچ برنامه‌ای برای شلیک به هیچ نفتکش در حال ترک بنادر ایران وجود ندارد",
+      "author": "کسی",
+      "timestamp": "2026-04-14T17:44:30.583Z",
+      "replies": [],
+      "views": 12
+    },
+    {
+      "id": "1776188676238ijjvl9lb1",
+      "text": "💢مسئول کاخ سفید: گفتگوهای مستقیم آینده با ایران در حال بررسی است. هنوز تاریخی تعیین نشده",
+      "author": "کسی",
+      "timestamp": "2026-04-14T17:44:36.238Z",
+      "replies": [],
+      "views": 8
+    },
+    {
+      "id": "17761886897944qtisvlmb",
+      "text": "💢〰️ رئیس ستاد کل ارتش اسرائیل:\n\nحدود دو سال پیش، دشمنان ما رویای ملتی یهودیِ تسلیم‌شده و شکست‌خورده را در سر می‌پروراندند؛ اما سخت در اشتباه بودند.\nدیگر هرگز اجازه نخواهیم داد هیچ دشمنی بانگ مرگ بر اسرائیل سر دهد. \n\nدر هفته‌های اخیر، عملیات «غرش شیران» را آغاز کردیم و با اقدامات خود به دشمنان نزدیک و دور نشان دادیم که اسرائیل در برابر هر تهدیدی علیه موجودیتش، با قاطعیت، قدرت و مسئولیت‌پذیری عمل خواهد کرد.\n\nاین جنگ، جنگِ بقا برای خانه شخصی و خانه ملی ماست؛ خانه‌ای که بازماندگان هولوکاست آرزوی بازگشت به آن را داشتند؛ خانه‌ای که از دل خاکستر، از دل خاطره و بر پایه تعهدی عمیق ساخته شد تا دیگر هرگز بی‌دفاع نباشیم.",
+      "author": "کسی",
+      "timestamp": "2026-04-14T17:44:49.794Z",
+      "replies": [],
+      "views": 9
+    },
+    {
+      "id": "17761888153665s26u59kx",
+      "text": "هر نوع و شکلی از مذاکره با آمریکا، در شرایطی که آمریکا (ولو بصورت اسمی) از اعمال محاصره دریایی حرف زده باشد، قطعا خطاست. در مقابل شکل معقول فوری در این شرایط مذاکرات دو به دو با مصرف کنندگان تنگه است.",
+      "author": "کسی",
+      "timestamp": "2026-04-14T17:46:55.366Z",
+      "replies": [],
+      "views": 21
+    },
+    {
+      "id": "1776188922010xidul506j",
+      "text": "آنتونیو گوترش، دبیرکل سازمان ملل، خواستار از سرگیری مذاکرات جدی و حفظ آتش‌بس شد و گفت نشانه‌ها حاکی از آن است که مذاکرات با جمهوری اسلامی به احتمال زیاد دوباره آغاز خواهد شد.\nاو افزود به‌جای تشدید تنش‌ها باید به دیپلماسی و رعایت دوباره قوانین بین‌المللی روی آورد، حقوق کشتیرانی بین‌المللی، از جمله در تنگه هرمز، باید توسط همه طرف‌ها محترم شمرده شود.\nگوترش درباره مذاکرات روز سه‌شنبه اسرائیل و لبنان گفت هیچ‌کس انتظار ندارد مذاکرات امروز همه مشکلات را حل کند، اما بسیار مهم است که شرایط لازم برای تغییر ایجاد شود.",
+      "author": "کسی",
+      "timestamp": "2026-04-14T17:48:42.010Z",
+      "replies": [],
+      "views": 19
+    },
+    {
+      "id": "17761892083630jyz5a16c",
+      "text": "آنتونیو گوترش، دبیرکل سازمان ملل، خواستار از سرگیری مذاکرات جدی و حفظ آتش‌بس شد و گفت نشانه‌ها حاکی از آن است که مذاکرات با جمهوری اسلامی به احتمال زیاد دوباره آغاز خواهد شد.\nاو افزود به‌جای تشدید تنش‌ها باید به دیپلماسی و رعایت دوباره قوانین بین‌المللی روی آورد، حقوق کشتیرانی بین‌المللی، از جمله در تنگه هرمز، باید توسط همه طرف‌ها محترم شمرده شود.\nگوترش درباره مذاکرات روز سه‌شنبه اسرائیل و لبنان گفت هیچ‌کس انتظار ندارد مذاکرات امروز همه مشکلات را حل کند، اما بسیار مهم است که شرایط لازم برای تغییر ایجاد شود.آنتونیو گوترش، دبیرکل سازمان ملل، خواستار از سرگیری مذاکرات جدی و حفظ آتش‌بس شد و گفت نشانه‌ها حاکی از آن است که مذاکرات با جمهوری اسلامی به احتمال زیاد دوباره آغاز خواهد شد.\nاو افزود به‌جای تشدید تنش‌ها باید به دیپلماسی و رعایت دوباره قوانین بین‌المللی روی آورد، حقوق کشتیرانی بین‌المللی، از جمله در تنگه هرمز، باید توسط همه طرف‌ها محترم شمرده شود.\nگوترش درباره مذاکرات روز سه‌شنبه اسرائیل و لبنان گفت هیچ‌کس انتظار ندارد مذاکرات امروز همه مشکلات را حل کند، اما بسیار مهم است که شرایط لا",
+      "author": "کسی",
+      "timestamp": "2026-04-14T17:53:28.363Z",
+      "replies": [
+        {
+          "id": "1776193800404w3fz5hjhy",
+          "text": "خارشو",
+          "author": "ناشناس",
+          "timestamp": "2026-04-14T19:10:00.404Z"
+        },
+        {
+          "id": "1776195528891pj0j0iajl",
+          "text": "هعب",
+          "author": "ناشناس",
+          "timestamp": "2026-04-14T19:38:48.891Z"
+        }
+      ],
+      "views": 25
+    },
+    {
+      "id": "17761959106794gip3h9ma",
+      "text": "عوه کندا اور هوم اند نیتیو لند...",
+      "author": "جاستین کارنی",
+      "timestamp": "2026-04-14T19:45:10.679Z",
+      "replies": [],
+      "views": 28
+    },
+    {
+      "id": "1776195980045400a8qrho",
+      "text": "ترو پیتریوت لاوووووو\nاین آل آو آس کامند...",
+      "author": "استفن پولیِو",
+      "timestamp": "2026-04-14T19:46:20.045Z",
+      "replies": [
+        {
+          "id": "17766007684950qf8j6gsu",
+          "text": "یبسیب",
+          "author": "یبیبیسبسیب",
+          "timestamp": "2026-04-19T12:12:48.495Z"
+        },
+        {
+          "id": "1776955996464vumeuelmw",
+          "text": "یب یبل یب ل",
+          "author": "ناشناس",
+          "timestamp": "2026-04-23T14:53:16.464Z"
+        }
+      ],
+      "views": 47
+    },
+    {
+      "id": "177619604953138w4oj0ys",
+      "text": "ویت گلویینگ هار وی سی دی رایز",
+      "author": "الیوت مکنزی",
+      "timestamp": "2026-04-14T19:47:29.531Z",
+      "replies": [],
+      "views": 43
+    },
+    {
+      "id": "1776442192764e2z9eftg5",
+      "text": "🔴تـ٫ـرامـ٫ـپ: ایـ٫ـالات مـ٫ـتحده آمـ٫ـریکا تمام «گرد و غبار» هـ٫ـسته‌ای تولید شده توسط بمب‌افکن‌های بزرگ B2 ما را دریافت خواهد کرد.\n\nهیچ پولی رد و بدل نخواهد شد.\n\nاین معامله مشمول لبنـ٫ـان نیست، اما ایالـ٫ـات متـ٫ـحده به طور جداگانه با لـ٫ـبنان همکاری خواهد کرد و با وضعیت حز٫ب‌الـ٫ـله برخورد خواهد کرد.\n\nا٫سـ٫ـرائیـ٫ـل دیگر لبنـ٫ـان را بمـ٫ـباران نخواهد کرد — آنها توسط ایالـ٫ـات متـ٫ـحده ممنوع شده‌اند.\n\nبس است، بس است.",
+      "author": "ناشناس",
+      "timestamp": "2026-04-17T16:09:52.764Z",
+      "replies": [
+        {
+          "id": "1776600678319lardrqvrn",
+          "text": "یبسیب",
+          "author": "یسبی",
+          "timestamp": "2026-04-19T12:11:18.319Z"
+        },
+        {
+          "id": "1776623623943z51v0t9fe",
+          "text": "dfsdfds",
+          "author": "ناشناس",
+          "timestamp": "2026-04-19T18:33:43.943Z"
+        }
+      ],
+      "views": 79
+    },
+    {
+      "id": "1776442600616t26bvjdd2",
+      "text": "🇺🇸  *پرزيدنت ترامپ به رویترز : \n\nهیچ پولی به عنوان بخشی از هر توافق احتمالی با ایران مبادله نخواهد شد.\n\n پرزيدنت ترامپ به رویترز : \n\nما با آرامی برای بازگرداندن اورانیوم از ایران کار خواهیم کرد*.",
+      "author": "ناشناس",
+      "timestamp": "2026-04-17T16:16:40.617Z",
+      "replies": [
+        {
+          "id": "1776597818575ub5x52vsq",
+          "text": "dfdfs",
+          "author": "ناشناس",
+          "timestamp": "2026-04-19T11:23:38.575Z"
+        },
+        {
+          "id": "1776598266674ky5mtt0t6",
+          "text": "بزن دیگه",
+          "author": "زننده",
+          "timestamp": "2026-04-19T11:31:06.674Z"
+        },
+        {
+          "id": "1776599859391brvoerz39",
+          "text": "یبیبیب",
+          "author": "یبیبی",
+          "timestamp": "2026-04-19T11:57:39.391Z"
+        },
+        {
+          "id": "17766001714769mksi6612",
+          "text": "یبسیب",
+          "author": "یسبیسب",
+          "timestamp": "2026-04-19T12:02:51.476Z"
+        },
+        {
+          "id": "177660065306875c0s4kxe",
+          "text": "دهنشو",
+          "author": "باه",
+          "timestamp": "2026-04-19T12:10:53.068Z"
+        },
+        {
+          "id": "1776600662238bghjz4xnl",
+          "text": "بیسبسیبسیب",
+          "author": "سیبسیبس",
+          "timestamp": "2026-04-19T12:11:02.238Z"
+        },
+        {
+          "id": "17766006675203nji69g8i",
+          "text": "یبسیبیس",
+          "author": "بیسبیسب",
+          "timestamp": "2026-04-19T12:11:07.520Z"
+        },
+        {
+          "id": "177662352073371ayzkfmu",
+          "text": "dfdfdf",
+          "author": "dfdf",
+          "timestamp": "2026-04-19T18:32:00.743Z"
+        },
+        {
+          "id": "177662353245556okp0g44",
+          "text": "dfdfdf",
+          "author": "dfdf",
+          "timestamp": "2026-04-19T18:32:12.455Z"
+        },
+        {
+          "id": "1776623536934qps9loo1z",
+          "text": "dfdfdf",
+          "author": "dfdf",
+          "timestamp": "2026-04-19T18:32:16.934Z"
+        },
+        {
+          "id": "17766235499584edxf8y1m",
+          "text": "dasdsa",
+          "author": "dsad",
+          "timestamp": "2026-04-19T18:32:29.958Z"
+        },
+        {
+          "id": "1776623555399tzs6ucw75",
+          "text": "dasdsa",
+          "author": "ناشناس",
+          "timestamp": "2026-04-19T18:32:35.399Z"
+        },
+        {
+          "id": "17766235584140eow8cnly",
+          "text": "dasdsa",
+          "author": "ناشناس",
+          "timestamp": "2026-04-19T18:32:38.414Z"
+        },
+        {
+          "id": "1776623561719fz9874wt8",
+          "text": "dasdsa",
+          "author": "ناشناس",
+          "timestamp": "2026-04-19T18:32:41.719Z"
+        },
+        {
+          "id": "1776623595465rt7hu4to8",
+          "text": "bezann",
+          "author": "ناشناس",
+          "timestamp": "2026-04-19T18:33:15.465Z"
+        },
+        {
+          "id": "1776700988356kyq71pyj1",
+          "text": "یبیب",
+          "author": "ناشناس",
+          "timestamp": "2026-04-20T16:03:08.357Z"
+        },
+        {
+          "id": "1776954213270k629m5a3t",
+          "text": "بیسبس",
+          "author": "بیبیبیب",
+          "timestamp": "2026-04-23T14:23:33.270Z"
+        },
+        {
+          "id": "17772155050915472apaps",
+          "text": "مرسی است در حالی در یک کشور",
+          "author": "ناشناس",
+          "timestamp": "2026-04-26T14:58:25.092Z"
+        },
+        {
+          "id": "1777222335346d29p45fls",
+          "text": "fdfsdd",
+          "author": "dddddddddddddddddddddddddddddd",
+          "timestamp": "2026-04-26T16:52:15.356Z"
+        }
+      ],
+      "views": 189
+    },
+    {
+      "id": "17766912143856ykil1q9k",
+      "text": "I lo' chtgpt",
+      "author": "Boriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "timestamp": "2026-04-20T13:20:14.385Z",
+      "replies": [
+        {
+          "id": "1776691864632v9di4jcgk",
+          "text": "eee heoeoeww",
+          "author": "dddddddddddddddddddddddddddddd",
+          "timestamp": "2026-04-20T13:31:04.632Z"
+        },
+        {
+          "id": "1776694046812684dcv3f9",
+          "text": "dfdsfdsfds",
+          "author": "ناشناس",
+          "timestamp": "2026-04-20T14:07:26.812Z"
+        },
+        {
+          "id": "1776694052892aa4l66uhj",
+          "text": "dfdsfdsdfdsf",
+          "author": "ناشناس",
+          "timestamp": "2026-04-20T14:07:32.892Z"
+        },
+        {
+          "id": "1776694057169wohof5a21",
+          "text": "dfdsfd",
+          "author": "ناشناس",
+          "timestamp": "2026-04-20T14:07:37.169Z"
+        }
+      ],
+      "views": 73
+    },
+    {
+      "id": "17771279413518ueu6kqkx",
+      "text": "لیبریایی می‌شود می‌کنی می‌شود می‌باشد می‌کنی می‌کنم می‌کنم می‌باشد می‌شود می‌کنی می‌شود می‌باشد می‌کنی می‌کنم می‌کنم می‌باشد می‌شود می‌کنی می‌شود می‌باشد می‌کنی می‌کنم می‌کنم می‌باشد می‌شود می‌کنی می‌شود می‌باشد می‌کنی می‌کنم می‌کنم می‌باشد می‌شود می‌کنی می‌شود",
+      "author": "می‌باشد می‌کنی می‌کنم می‌کنم",
+      "timestamp": "2026-04-25T14:39:01.351Z",
+      "replies": [],
+      "views": 36
+    },
+    {
+      "id": "1777199350938fhy97vg3a",
+      "text": "طرازبستور",
+      "author": "چالارو",
+      "timestamp": "2026-04-26T10:29:10.938Z",
+      "replies": [],
+      "views": 18
+    },
+    {
+      "id": "1777199765667d7p3ghia9",
+      "text": "بیل گیتس وزیر و وزیر و مدیرکل امور بانوان شهرداری در برزیل و پاراگوئه و پرو و ونزوئلا و ایران است به این معنی نیست یه سری لانکا که به دنبال آن است به این ترتیب می زده است و به صورت یک تکه نان را",
+      "author": "ب که به صورت آنلاین سامان در تولیدات خود",
+      "timestamp": "2026-04-26T10:36:05.667Z",
+      "replies": [],
+      "views": 15
+    },
+    {
+      "id": "1777222470459nraqz6bdm",
+      "text": "♦️🇺🇸 |  ناوگروه باکسر با ۴۰۰۰ تفنگدار به خاورمیانه اعزام شد\n\n🔺ناوگروه هجومی آبی-خاکی باکسر ۱۹ آوریل در سواحل گوام در حال انجام تمرینات آمادگی رزمیحین عزیمت دیده شده است است ؛ زمان تقریبی پیوستن این ناوگروه به محاصره دریایی علیه ایران را می توان اواخر هفته جاری (چهارشنبه) ارزیابی کرد.\n\n➰𝗝𝗢𝗶𝗡` 📡",
+      "author": "ترامپ قدر شهید لاریجانی تا زمانی که در قید حیات بو",
+      "timestamp": "2026-04-26T16:54:30.459Z",
+      "replies": [
+        {
+          "id": "1777308519147e94w52ixv",
+          "text": "dfdf",
+          "author": "dfdf",
+          "timestamp": "2026-04-27T16:48:39.147Z"
+        }
+      ],
+      "views": 32
+    },
+    {
+      "id": "1777311575231onrmr9uah",
+      "text": "https://audiok.ir/\nhttps://sptfy.ir/s\nhttps://upmusics.com/\nhttps://worldofmusic.ir/\nhttps://navaak.com/\nhttps://vmusic.ir/\nhttp://toogooosh.com/\nhttps://musicdagh.ir/\nhttps://musicgeek.ir/\nhttps://musicdel.ir/\nhttps://ritmahang.com/\nhttps://avapedia.com/\nhttps://tiarin.ir/s\nhttps://rasaneh3.ir/\n\nhttps://magerta.ir/entertainment/music/",
+      "author": "سایت خور",
+      "timestamp": "2026-04-27T17:39:35.231Z",
+      "replies": [],
+      "views": 8
+    },
+    {
+      "id": "17773126670824i5t0o37a",
+      "text": "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+      "author": "ناشناس",
+      "timestamp": "2026-04-27T17:57:47.082Z",
+      "replies": [],
+      "views": 13
+    },
+    {
+      "id": "1777536292155flpva42co",
+      "text": "🚨ترامپ در صفحه تروث سوشال :طوفان در راهه و هیچ چیز جلودارش نیست!",
+      "author": "Vladimir Putin",
+      "timestamp": "2026-04-30T08:04:52.155Z",
+      "replies": []
+    },
+    {
+      "id": "1777536337808whbx4xefh",
+      "text": "🌊 امروز دهم اردیبهشت؛ روز ملی خلیج همیشه فارسه.",
+      "author": "D",
+      "timestamp": "2026-04-30T08:05:37.808Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777536360550k9dxl1lil",
+      "text": "🔴 ادعای بلومبرگ:\n\n🔻  فرماندهی مرکزی ایالات متحده درخواست تایید برای استقرار موشپ هایپرسونیک برد بلند «عقاب تاریک» را در خاورمیانه ارائه کرده است که هدف آن سامانه‌های پرتاب موشک‌های بالستیک ایرانی است که اکنون خارج از برد سیستم‌های فعلی ایالات متحده قرار دارند.\n\n🔻 این موشک بردی حدود ۱۷۲۵ مایل دارد و برای حملات سریع و دقیق علیه اهدافی که به شدت دفاع شده یا زمان‌حساس هستند، طراحی شده است.\n\n🔻 در صورت تایید، این عملیات نخستین استقرار عملیاتی این سیستم خواهد بود که هنوز به طور کامل آماده اعلام نشده است. هزینه هر موشک تقریباً ۱۵ میلیون دلار است و تنها تعداد محدودی از آن‌ها در دسترس می‌باشد.",
+      "author": "اخبار فوری",
+      "timestamp": "2026-04-30T08:06:00.550Z",
+      "replies": []
+    },
+    {
+      "id": "17775364060462rugmkr0y",
+      "text": "🔴وضعیت ذخایر موشکی آمریکا:\n\n🔻مصرف موشک کروز تاماهاوک: ۳۲٪ \nمدت زمان تأمین مجدد: ۴ سال \n\n🔻مصرف موشک کروز جی‌ای‌اس‌اس‌ام: ۲۵٪ \nمدت زمان تأمین مجدد: ۴ سال \n\n🔻مصرف موشک بالستیک پی‌آر‌اس‌ام: ۴۴٪ تا ۷۷٪\nمدت زمان تأمین مجدد: ۴ سال \n\n🔻مصرف پدافند اس‌ام-۳: ۳۱٪ تا ۶۰٪\nمدت زمان تأمین مجدد: ۵ سال \n\n🔻مصرف موشک پدافند تاد: ۵۲٪ تا ۸۰٪\nمدت زمان تأمین مجدد: ۴.۵ سال \n\n🔻مصرف موشک پدافند پاتریوت: ۴۵٪ تا ۶۰٪ \nمدت زمان تأمین مجدد: ۳.۵ سال\n[ @]",
+      "author": "Akhbare_moheme",
+      "timestamp": "2026-04-30T08:06:46.046Z",
+      "replies": []
+    },
+    {
+      "id": "1777536498796jgc0i748e",
+      "text": "🔴 ترامپ:\n\n🔻 طوفان در راهه و هیچ چیز جلودارش نیست‼️",
+      "author": "Akhbare_moheme",
+      "timestamp": "2026-04-30T08:08:18.796Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777536511681nxxrk5528",
+      "text": "♦️ ایالات متحده در ۷۲ ساعت گذشته قصد داشت چندین اقدام علیه زیرساخت‌های نفتی ایران انجام دهد اما عملیات خرابکارانه شکست خورد.",
+      "author": "آمریکایی",
+      "timestamp": "2026-04-30T08:08:31.681Z",
+      "replies": [],
+      "views": 2
+    },
+    {
+      "id": "1777541483129dswm6ykvo",
+      "text": "You're starting to remind me of me! Minus the charisma. And impressive cock.",
+      "author": "Johnny Silverhand",
+      "timestamp": "2026-04-30T09:31:23.132Z",
+      "replies": [],
+      "views": 2
+    },
+    {
+      "id": "17775415798337x7evq3za",
+      "text": "تروریسم",
+      "author": "ناشناس",
+      "timestamp": "2026-04-30T09:32:59.833Z",
+      "replies": []
+    },
+    {
+      "id": "1777541632178vs6c0o239",
+      "text": "terrorism",
+      "author": "ناشناس",
+      "timestamp": "2026-04-30T09:33:52.178Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777541637769dspa6rfs1",
+      "text": "damn",
+      "author": "ناشناس",
+      "timestamp": "2026-04-30T09:33:57.769Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777645916659nc4wgrg46",
+      "text": "⭕️❗️مقام اسرائیلی:\nامارات متحده عربی در هر حمله‌ای علیه ایران با ما مشارکت خواهد کرد.",
+      "author": "خبر لحظه ای",
+      "timestamp": "2026-05-01T14:31:56.659Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777645924910ajrk09erc",
+      "text": "⭕️ ورود 8 بمب افکن B2 در پایگاه دیگوگارسیا واقع در اقیانوس هند.",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T14:32:04.910Z",
+      "replies": []
+    },
+    {
+      "id": "17776470501092uftqgbwf",
+      "text": "da**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T14:50:50.109Z",
+      "replies": []
+    },
+    {
+      "id": "1777647056320sf7odjs9p",
+      "text": "co**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T14:50:56.320Z",
+      "replies": []
+    },
+    {
+      "id": "1777647063854lm8gf9h3g",
+      "text": "bas****",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T14:51:03.854Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777647071242hqfg1n2tn",
+      "text": "s+l*u/t",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T14:51:11.242Z",
+      "replies": []
+    },
+    {
+      "id": "1777647078740pmkntdvjy",
+      "text": "slu/t",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T14:51:18.740Z",
+      "replies": [],
+      "views": 2
+    },
+    {
+      "id": "1777647084568svajyvajv",
+      "text": "di**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T14:51:24.568Z",
+      "replies": []
+    },
+    {
+      "id": "177765123519900y7fa72q",
+      "text": "he****",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T16:00:35.199Z",
+      "replies": []
+    },
+    {
+      "id": "17776512440632rbmtt5jn",
+      "text": "ter******",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T16:00:44.063Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777651285753gy6h78kr6",
+      "text": "vio***** at**** bu**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T16:01:25.753Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777651292882b3bpqgi7t",
+      "text": "b*urn",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T16:01:32.882Z",
+      "replies": []
+    },
+    {
+      "id": "1777651329014olefxo0pv",
+      "text": "bu** fu** . * / +",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T16:02:09.014Z",
+      "replies": []
+    },
+    {
+      "id": "1777655575303tjjau8rec",
+      "text": "fu**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:12:55.303Z",
+      "replies": []
+    },
+    {
+      "id": "1777655579032qt3o9ohu0",
+      "text": "fu-ck",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:12:59.032Z",
+      "replies": []
+    },
+    {
+      "id": "17776555865272qgsmpz0u",
+      "text": "fu**_",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:13:06.527Z",
+      "replies": []
+    },
+    {
+      "id": "1777655591861j9bra8bz8",
+      "text": "fu*ck",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:13:11.861Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777655610104s49oc16bl",
+      "text": "fu** you . , -",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:13:30.104Z",
+      "replies": [
+        {
+          "id": "1777655637248ft2go87ur",
+          "author": "ناشناس",
+          "timestamp": "2026-05-01T17:13:57.248Z"
+        },
+        {
+          "id": "1777655644279dg9f1gajo",
+          "author": "ناشناس",
+          "timestamp": "2026-05-01T17:14:04.279Z"
+        },
+        {
+          "id": "1777655657237mol1c3clc",
+          "author": "ناشناس",
+          "timestamp": "2026-05-01T17:14:17.237Z"
+        },
+        {
+          "id": "1777655695684z7k8ixfit",
+          "text": "fu**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-01T17:14:55.684Z"
+        },
+        {
+          "id": "1777655748521mio8l2zaf",
+          "text": "fu-**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-01T17:15:48.521Z"
+        }
+      ],
+      "views": 4
+    },
+    {
+      "id": "1777655763186wgldwx5g1",
+      "text": "fu-**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:16:03.186Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777657082233qn82x75eu",
+      "text": "f-u**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:38:02.275Z",
+      "replies": []
+    },
+    {
+      "id": "1777657179184oulvj04pb",
+      "text": "fu-ck",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:39:39.184Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1777657190117syqnhz69k",
+      "text": "fu**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:39:50.117Z",
+      "replies": []
+    },
+    {
+      "id": "177765719375497p2p48yt",
+      "text": "fu*ck",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T17:39:53.754Z",
+      "replies": []
+    },
+    {
+      "id": "1777659719691pse0vnzzl",
+      "text": "fu**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T18:21:59.691Z",
+      "replies": []
+    },
+    {
+      "id": "1777659722723zlvak54yh",
+      "text": "fu**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T18:22:02.723Z",
+      "replies": []
+    },
+    {
+      "id": "1777659727346w4ghypetl",
+      "text": "fu**",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T18:22:07.346Z",
+      "replies": [
+        {
+          "id": "1777753151948y8hpnhf69",
+          "text": "ترو****",
+          "author": "ناشناس",
+          "timestamp": "2026-05-02T20:19:11.948Z"
+        },
+        {
+          "id": "17777531600045yk4ntg4y",
+          "text": "ترو****",
+          "author": "ناشناس",
+          "timestamp": "2026-05-02T20:19:20.004Z"
+        },
+        {
+          "id": "1778229904554gkpugkqn4",
+          "text": "co**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-08T08:45:04.554Z"
+        }
+      ],
+      "views": 2
+    },
+    {
+      "id": "1777659734293y1hm46qbc",
+      "text": "bas****",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T18:22:14.293Z",
+      "replies": [],
+      "views": 2
+    },
+    {
+      "id": "1777659740289gl93hyoa7",
+      "text": "ass",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T18:22:20.289Z",
+      "replies": [],
+      "views": 3
+    },
+    {
+      "id": "1777659746820fh3l3zxcf",
+      "text": "bas****",
+      "author": "ناشناس",
+      "timestamp": "2026-05-01T18:22:26.820Z",
+      "replies": [
+        {
+          "id": "17776597596496j91ijmix",
+          "text": "fu**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-01T18:22:39.649Z"
+        },
+        {
+          "id": "1777884314294r05aa5cw2",
+          "text": "co**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-04T08:45:14.294Z"
+        },
+        {
+          "id": "177788431992457cwceola",
+          "text": "co**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-04T08:45:19.924Z"
+        },
+        {
+          "id": "1778253225194amg37w88g",
+          "text": "ass",
+          "author": "ناشناس",
+          "timestamp": "2026-05-08T15:13:45.194Z"
+        }
+      ],
+      "views": 8
+    },
+    {
+      "id": "17778843255388hzkn3bmc",
+      "text": "terr*****",
+      "author": "ناشناس",
+      "timestamp": "2026-05-04T08:45:25.538Z",
+      "replies": [],
+      "views": 2
+    },
+    {
+      "id": "17778852555202pum8lgd5",
+      "text": "yeah",
+      "author": "dd",
+      "timestamp": "2026-05-04T09:00:55.521Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1778228014567gjkrqwou8",
+      "text": "You're starting to remind me of me! Minus the charisma. And impressive co**",
+      "author": "Johnny Silverhand",
+      "timestamp": "2026-05-08T08:13:34.568Z",
+      "replies": [],
+      "views": 4
+    },
+    {
+      "id": "1778229080871kgh4jn5b6",
+      "text": "you really ought to go home",
+      "author": "F22 Pilot",
+      "timestamp": "2026-05-08T08:31:20.871Z",
+      "replies": [
+        {
+          "id": "1778229892582zqgc2eoqf",
+          "text": "oh fu**",
+          "author": "F4 Pilot",
+          "timestamp": "2026-05-08T08:44:52.582Z"
+        }
+      ],
+      "views": 6
+    },
+    {
+      "id": "1778253247010w2vt3nnkn",
+      "text": "ترو**** را خواهیم دید",
+      "author": "ناشناس",
+      "timestamp": "2026-05-08T15:14:07.011Z",
+      "replies": [],
+      "views": 1
+    },
+    {
+      "id": "1778254941261xgbhnjc2t",
+      "text": "یبیب",
+      "author": "سیبیس",
+      "timestamp": "2026-05-08T15:42:21.261Z",
+      "replies": [
+        {
+          "id": "1778707084530b62ahaxh9",
+          "text": "",
+          "author": "ناشناس",
+          "timestamp": "2026-05-13T21:18:04.530Z"
+        }
+      ],
+      "views": 2
+    },
+    {
+      "id": "17782557477491ictwtzzq",
+      "text": "But I need to tell you something\nMy heart just can't be faithful for long\nI swear I'll only make you cry\nI need to tell you something\nMy heart just can't be faithful for long\nI swear I'll only make you cry",
+      "author": "Cigarettes After Sex",
+      "timestamp": "2026-05-08T15:55:47.749Z",
+      "replies": [
+        {
+          "id": "17782557616751yb2miplb",
+          "text": "fu**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-08T15:56:01.676Z"
+        },
+        {
+          "id": "1778255768753pa0449p6d",
+          "text": "fu**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-08T15:56:08.754Z"
+        },
+        {
+          "id": "1778255845898o82n5cw29",
+          "text": "fu**",
+          "author": "ناشناس",
+          "timestamp": "2026-05-08T15:57:25.898Z"
+        }
+      ],
+      "views": 9
+    }
+  ]
+}
