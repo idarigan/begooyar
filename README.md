@@ -103,5 +103,7 @@ Clean. Glass. Persian-first. Built like a Jedi lightsaber — elegant, focused, 
 - Docker support
 - Migrate to a real database (MongoDB/PostgreSQL) when scaling
 
+---
+
 Made with ❤️ in 2026
 For the people who just wanna speak freely.
