@@ -1,4 +1,4 @@
-# بگویار (BegooYar) ✨
+# بگویار (BegooYar)
 
 **Anonymous Message Sharing Platform** "ناشناس حرفت رو بزن"
 
