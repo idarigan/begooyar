@@ -8,15 +8,15 @@ A minimalist, Persian-first anonymous messaging app.
 
 ## 🌟 Features
 
-- **Totally Anonymous Posting** — No accounts, just vibes
-- **Replies & Threading** — Real conversation energy
+- **Totally Anonymous Posting** - No accounts, just vibes
+- **Replies & Threading** - Real conversation energy
 - **Live Search** + **Date Filtering**
 - **View Counter** on messages
-- **Smart Censorship** — Blocks toxicity (terrorism, slurs, etc.)
-- **Beautiful Glassmorphism UI** — Dark/Light toggle with custom favicon
+- **Smart Censorship** - Blocks toxicity (terrorism, slurs, etc.)
+- **Beautiful Glassmorphism UI** - Dark/Light toggle with custom favicon
 - **Infinite Scroll** + Load More
-- **Rate Limiting** — No spam, eh?
-- **Mobile Responsive** — Works smooth on your phone
+- **Rate Limiting** - No spam, eh?
+- **Mobile Responsive** - Works smooth on your phone
 
 ---
 
@@ -26,7 +26,7 @@ A minimalist, Persian-first anonymous messaging app.
 - **Backend**: Node.js + built-in HTTP server
 - **Database**: Simple but powerful `messages.json` with in-memory indexes (fast af)
 - **Fonts**: IRANSansX (proper Persian support)
-- **No bloat** — Zero frameworks, pure power
+- **No bloat** - Zero frameworks, pure power
 
 ---
 
@@ -71,18 +71,18 @@ Open http://localhost:8000 and done. Simple as that, buddy.
 
 ## 📡 API Endpoints
 
-- GET /api/messages — Latest messages (paginated)
-- POST /api/message — Post new message
-- POST /api/reply — Reply to message
-- GET /api/search?q=... — Search
-- GET /api/date?day=YYYY-MM-DD — Filter by date
-- POST /api/view — Increment view count
+- GET /api/messages - Latest messages (paginated)
+- POST /api/message - Post new message
+- POST /api/reply - Reply to message
+- GET /api/search?q=... - Search
+- GET /api/date?day=YYYY-MM-DD - Filter by date
+- POST /api/view - Increment view count
 
 ---
 
 ## 🎨 Design Philosophy
 
-Clean. Glass. Persian-first. Built like a Jedi lightsaber — elegant, focused, and powerful. Dark mode feels like Mustafar at night, light mode like a snowy Toronto morning 🍁
+Clean. Glass. Persian-first. Built like a Jedi lightsaber - elegant, focused, and powerful. Dark mode feels like Mustafar at night, light mode like a snowy Toronto morning 🍁
 
 ---
 
