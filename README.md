@@ -105,5 +105,4 @@ Clean. Glass. Persian-first. Built like a Jedi lightsaber - elegant, focused, an
 
 ---
 
-Made with ❤️ in 2026
-For the people who just wanna speak freely.
+Made in 2026 For the people who just wanna speak freely...
