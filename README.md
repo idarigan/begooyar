@@ -1,8 +1,8 @@
 # بگویار (BegooYar)
 
-**Anonymous Message Sharing Platform** "ناشناس حرفت رو بزن"
+**Anonymous Message Sharing Platform**
 
-A minimalist, beautiful, Persian-first anonymous messaging app.
+A minimalist, Persian-first anonymous messaging app.
 
 ---
 
